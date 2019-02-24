@@ -65,6 +65,7 @@
   {% elif temp.startswith('flickr.com') %}{% set class = 'fa-flickr' %}
   {% elif temp.startswith('foursquare.com') %}{% set class = 'fa-foursquare' %}
   {% elif temp.startswith('github.com') %}{% set class = 'fa-github' %}
+  {% elif temp.startswith('gitlab.com') %}{% set class = 'fa-gitlab' %}
   {% elif temp.startswith('instagram.com') %}{% set class = 'fa-instagram' %}
   {% elif temp.startswith('last.fm') %}{% set class = 'fa-lastfm' %}
   {% elif temp.startswith('sg.linkedin.com') %}{% set class = 'fa-linkedin' %}
@@ -92,10 +93,14 @@
 {%- endmacro -%}
 
 {%- macro display_link(name, link, text) -%}
+<a href="{{ link }}"{% if not text %} title="{{ name }}"{% endif %} {{ 'class="active"' if  output_file == link }}>{{ text }}{{ get_icon(link) }}</a>
+{%- endmacro -%}
+
+{%- macro display_social_link(name, link, text) -%}
   {%- if MANGLE_EMAILS and link.startswith('mailto:') -%}
-  <a data-email="{{ link|reverse }}"{% if not text %} data-title="{{ name }}"{% endif %} title="You need javascript enabled to view this email" class="email">{{ text }}{{ get_icon(link) }}</a>
+  <a data-email="{{ link|reverse }}"{% if not text %} data-title="{{ name }}"{% endif %} title="You need javascript enabled to view this email" class="email" rel="me">{{ text }}{{ get_icon(link) }}</a>
   {%- else -%}
-  <a href="{{ link }}"{% if not text %} title="{{ name }}"{% endif %} {{ 'class="active"' if  output_file == link }}>{{ text }}{{ get_icon(link) }}</a>
+  <a href="{{ link }}"{% if not text %} title="{{ name }}"{% endif %} {{ 'class="active"' if  output_file == link }} rel="me">{{ text }}{{ get_icon(link) }}</a>
   {%- endif -%}
 {%- endmacro -%}
 
@@ -126,7 +131,7 @@
               </div>
               <div class="social">   
                {% for name, link in SOCIAL %}
-                {{ display_link(name, link, "") }}
+                {{ display_social_link(name, link, "") }}
                {% endfor %}
               </div>
             </div>
