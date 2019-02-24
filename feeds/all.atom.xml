@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>juanlu.space</title><link href="https://www.juanlu.space/" rel="alternate"></link><link href="https://www.juanlu.space/feeds/all.atom.xml" rel="self"></link><id>https://www.juanlu.space/</id><updated>2019-02-24T21:00:24Z</updated></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>juanlu.space</title><link href="https://www.juanlu.space/" rel="alternate"></link><link href="https://www.juanlu.space/feeds/all.atom.xml" rel="self"></link><id>https://www.juanlu.space/</id><updated>2019-02-24T21:29:00+01:00</updated><entry><title>My digital self</title><link href="https://www.juanlu.space/posts/2019/02/24/my-digital-self/" rel="alternate"></link><published>2019-02-24T21:29:00+01:00</published><updated>2019-02-24T21:29:00+01:00</updated><author><name>Juan Luis Cano Rodríguez</name></author><id>tag:www.juanlu.space,2019-02-24:/posts/2019/02/24/my-digital-self/</id><summary type="html">&lt;p&gt;Here I am.&lt;/p&gt;
+&lt;p&gt;Tweets are deleting as we speak. Facebook and Whatsapp are long gone.
+And, you guessed right, &lt;em&gt;I am back to blogging&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I started a personal blog a long time ago.
+Learning to program, to write, to love, to learn... It was another life.
+That blog is no …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Here I am.&lt;/p&gt;
+&lt;p&gt;Tweets are deleting as we speak. Facebook and Whatsapp are long gone.
+And, you guessed right, &lt;em&gt;I am back to blogging&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I started a personal blog a long time ago.
+Learning to program, to write, to love, to learn... It was another life.
+That blog is no longer online. I don't like leaving traces.&lt;/p&gt;
+&lt;p&gt;Then I started a programming blog, and then another one. &lt;a class="reference external" href="https://pybonacci.org"&gt;That
+one was quite famous&lt;/a&gt;, a great ride.
+I learned to teach, to talk to my audience,
+and many other things along the way.&lt;/p&gt;
+&lt;p&gt;The present looks kinda gloomy though. Huge corporations owning
+our data, our digital selves. Yes: &lt;strong&gt;our online identity is no
+longer ours&lt;/strong&gt;. Are we willing to accept that?
+This blog starts as my quest to find answers to that question.&lt;/p&gt;
+&lt;p&gt;See you on &lt;a class="reference external" href="https://indiewebify.me/"&gt;the Indie Web&lt;/a&gt;.&lt;/p&gt;
+</content><category term="Meta"></category></entry></feed>
