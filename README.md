@@ -1,2 +1,0 @@
-# juanlu.space
-Personal website
