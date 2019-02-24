@@ -13,6 +13,11 @@ TIMEZONE = "Europe/Madrid"
 DEFAULT_LANG = "en"
 THEME = "./theme"
 
+ARTICLE_URL = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/"
+ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
+PAGE_URL = "{slug}/"
+PAGE_SAVE_AS = "{slug}/index.html"
+
 TAGS_URL = "tags.html"
 ARCHIVES_URL = "archives.html"
 
