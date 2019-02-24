@@ -13,6 +13,9 @@ TIMEZONE = "Europe/Madrid"
 DEFAULT_LANG = "en"
 THEME = "./theme"
 
+TAGS_URL = "tags.html"
+ARCHIVES_URL = "archives.html"
+
 PLUGINS = ["assets"]
 PLUGIN_PATHS = ["./theme/plugins"]
 
