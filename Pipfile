@@ -8,6 +8,7 @@ black = "*"
 
 [packages]
 pelican = "*"
+webassets = "*"
 
 [requires]
 python_version = "3.6"  # Temporary

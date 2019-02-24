@@ -13,6 +13,9 @@ TIMEZONE = "Europe/Madrid"
 DEFAULT_LANG = "en"
 THEME = "./theme"
 
+PLUGINS = ["assets"]
+PLUGIN_PATHS = ["./theme/plugins"]
+
 STATIC_PATHS = ["extra/CNAME"]
 EXTRA_PATH_METADATA = {"extra/CNAME": {"path": "CNAME"}}
 
