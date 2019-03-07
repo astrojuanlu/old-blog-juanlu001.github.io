@@ -97,7 +97,7 @@ stupid, fearful traveler.
 
    The Sun burns, but the dressmakers need a lightbulb to see what
    they're doing because everything is covered and a bit dark. Their
-   language is called oshihereo, from the "herero" tribe.
+   language is called Otjiherero, from the "Herero" tribe.
 
    Right behind me, a man yells: 'You are limited to grow higher because
    you have no money!'
@@ -109,9 +109,9 @@ stupid, fearful traveler.
    'The currency for herero is cattle.'
 
    The dressmakers sweat to the lightbulb while we observe. The dress
-   progresses slowly, layer by layer. Imagine that in reality they don't
+   progresses slowly, layer by layer. Can you imagine that in reality they don't
    dress like that and everything is a joke to make fun of tourists,
-   easily impressed.
+   easily impressed?
 
    Sandrine has become a local attraction. A man approached to ask how
    much he likes the combination between the dress and her skin color
@@ -217,8 +217,9 @@ exhaustion that one always has after sharing and learning so much.
 
 And now, what?
 
-If Daniele Procida is the brain of PyCon Namibia, Jessica Upani is the
-heart. I had the opportunity to meet her in person and understand why
+If Daniele Procida is the European ambassador of PyCon Namibia,
+Jessica Upani is the power that drives it.
+I had the opportunity to meet her in person and understand why
 some emails took a while to be answered: *she was organizing the
 conference almost on her own*. And yet, it was amazing how much positive
 energy she had and how much their students admired her.
@@ -238,6 +239,11 @@ Africa 2019 <https://twitter.com/pyconafrica>`__. Organize PyCon Namibia
 2020.
 
 Make your head explode.
+
+*Thanks to Daniele Procida and Jessica Upani not only for giving
+early feedback about this writeup, but also for their selfless
+work for this community. They are too humble to recognize
+their tremendous effort.*
 
 |Tropic of Capricorn|
 
