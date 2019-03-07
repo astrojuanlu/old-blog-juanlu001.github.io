@@ -24,7 +24,8 @@ Burning prejudices to the ground
 --------------------------------
 
 I first heard from PyCon Namibia in `a lightning talk at EuroPython
-2016 <https://youtu.be/LJ2zRHociVw?t=805>`__ by Daniele Procida, its
+2016 <https://youtu.be/LJ2zRHociVw?t=805>`__ by Daniele Procida
+community manager at `Divio <https://www.divio.com/>`__ and
 wonderful ambassador. That was three years ago, and I still remember my
 head exploding with questions ("a PyCon in Africa?", "50 % women
 attendees? that must be the most diverse PyCon in the world!") while
