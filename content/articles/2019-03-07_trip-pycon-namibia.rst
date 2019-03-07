@@ -137,7 +137,7 @@ so I never forget the feeling.
 |Mucho trabajo por hacer|
 
 PyCon Namibia
--------------"
+-------------
 
 And finally, the big day arrived. We enjoyed three exciting days
 learning and sharing about Python, and much more than that. I ended up
