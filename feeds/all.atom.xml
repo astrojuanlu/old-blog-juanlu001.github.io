@@ -1,5 +1,211 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>juanlu.space</title><link href="https://www.juanlu.space/" rel="alternate"></link><link href="https://www.juanlu.space/feeds/all.atom.xml" rel="self"></link><id>https://www.juanlu.space/</id><updated>2019-02-24T21:29:00+01:00</updated><entry><title>My digital self</title><link href="https://www.juanlu.space/posts/2019/02/24/my-digital-self/" rel="alternate"></link><published>2019-02-24T21:29:00+01:00</published><updated>2019-02-24T21:29:00+01:00</updated><author><name>Juan Luis Cano Rodríguez</name></author><id>tag:www.juanlu.space,2019-02-24:/posts/2019/02/24/my-digital-self/</id><summary type="html">&lt;p&gt;Here I am.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>juanlu.space</title><link href="https://www.juanlu.space/" rel="alternate"></link><link href="https://www.juanlu.space/feeds/all.atom.xml" rel="self"></link><id>https://www.juanlu.space/</id><updated>2019-03-07T13:30:00+01:00</updated><entry><title>My trip to PyCon Namibia</title><link href="https://www.juanlu.space/posts/2019/03/07/my-trip-to-pycon-namibia/" rel="alternate"></link><published>2019-03-07T13:30:00+01:00</published><updated>2019-03-07T13:30:00+01:00</updated><author><name>Juan Luis Cano Rodríguez</name></author><id>tag:www.juanlu.space,2019-03-07:/posts/2019/03/07/my-trip-to-pycon-namibia/</id><summary type="html">&lt;p&gt;Since I went to my first Python Conference in 2013 (coincidentally, one
+that I kicked off and helped organize with no other references:
+&lt;a class="reference external" href="http://2013.es.pycon.org/"&gt;PyCon Spain&lt;/a&gt;) I have been lucky
+enough to travel to many other conferences around the world, always
+giving a talk or participating in some way. Some of …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Since I went to my first Python Conference in 2013 (coincidentally, one
+that I kicked off and helped organize with no other references:
+&lt;a class="reference external" href="http://2013.es.pycon.org/"&gt;PyCon Spain&lt;/a&gt;) I have been lucky
+enough to travel to many other conferences around the world, always
+giving a talk or participating in some way. Some of these events were in
+places far away from my home town, and these, in particular, brought
+mesmerizing experiences that I will always remember. After being invited
+to the &lt;a class="reference external" href="http://scipyla.org/conf/2015/"&gt;first SciPy Latin America&lt;/a&gt; in
+2015 in Posadas, Argentina and the second &lt;a class="reference external" href="http://cusol.uis.edu.co/clibre2/"&gt;Free Culture
+Festival&lt;/a&gt; in 2017 in Bucaramanga,
+Colombia, it was about time for another groundbreaking trip. And the
+&lt;a class="reference external" href="https://na.pycon.org/"&gt;fifth PyCon Namibia&lt;/a&gt; exceeded all my
+expectations.&lt;/p&gt;
+&lt;p&gt;And also made my head explode several times.&lt;/p&gt;
+&lt;div class="section" id="burning-prejudices-to-the-ground"&gt;
+&lt;h2&gt;Burning prejudices to the ground&lt;/h2&gt;
+&lt;p&gt;I first heard from PyCon Namibia in &lt;a class="reference external" href="https://youtu.be/LJ2zRHociVw?t=805"&gt;a lightning talk at EuroPython
+2016&lt;/a&gt; by Daniele Procida, its
+wonderful ambassador. That was three years ago, and I still remember my
+head exploding with questions (&amp;quot;a PyCon in Africa?&amp;quot;, &amp;quot;50 % women
+attendees? that must be the most diverse PyCon in the world!&amp;quot;) while
+enjoying Daniele's exquisite sense of humor.&lt;/p&gt;
+&lt;p&gt;From that point, I &lt;em&gt;knew&lt;/em&gt; I &lt;strong&gt;had&lt;/strong&gt; to go. But when, and how? Every year
+I checked PyCon Namibia's website to realize that... could not make it
+&lt;em&gt;that&lt;/em&gt; February. At some point the planets aligned, and I knew 2019
+would be &lt;em&gt;that&lt;/em&gt; year: I bought my ticket to the conference, donated
+another one, waited for someone to respond to my inquiry email, and
+booked my plane. I was going to a tech conference in Sub-Saharian
+Africa, and I could not be more excited.&lt;/p&gt;
+&lt;p&gt;But the surprises were just about to start.&lt;/p&gt;
+&lt;blockquote&gt;
+(2019-02-16) &amp;quot;Doha, 01:24 local time. I am about to board to Namibia,
+and &lt;em&gt;we are all white&lt;/em&gt;. Something is not quite right here.&amp;quot;&lt;/blockquote&gt;
+&lt;p&gt;All I knew about Namibia came from Wikipedia: a relatively young
+country, doing reasonably well from an economic point of view, English
+as the official language (weird)... But suddenly, my population sample of
+Namibian citizens going back home (leaving aside a bunch of tourists,
+probably going to a safari) was all white, and I could only hear German
+and Afrikaans. The idea that maybe people of color in Namibia perhaps
+could not afford air travel felt revolting, and I just wanted to land
+and get back to &amp;quot;reality&amp;quot;.&lt;/p&gt;
+&lt;p&gt;There's no picture from my arrival to Namibia. I wanted to avoid
+distractions from my smartphone and hear, see and feel everything.&lt;/p&gt;
+&lt;p&gt;Daniele and Adam were waiting for me at the airport, and we had a great
+time the first two days, which were essential for me to &lt;em&gt;break all the
+rules&lt;/em&gt;: I drank ice, I ate worms, I wore short sleeve, I didn't smear
+myself in mosquito repellent. Yes: I also felt like a stupid, fearful
+tourist for not realizing that Windhoek, the capital city of Namibia, is
+just a normal city, unlike how it's depicted in some &amp;quot;travel
+recommendation&amp;quot; guides or vaccination leaflets.&lt;/p&gt;
+&lt;p&gt;Adam taught me an important lesson in Namibia: while talking to him
+about self-censorship and shitty interactions with strangers on Twitter,
+and the fact that I had been considering creating a bot that would
+remove my tweets after some days, he just said: &lt;strong&gt;&amp;quot;own your actions&amp;quot;&lt;/strong&gt;.
+That left me thinking the whole trip, and the result is that &lt;a class="reference external" href="https://www.juanlu.space/posts/2019/02/24/my-digital-self/"&gt;I deleted
+my personal Twitter account and started this
+blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You guessed right: my head was exploding.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Long live Namibian independence!" src="https://lh3.googleusercontent.com/aSxbZotVNbd0O43uuVEi9qvP_aThheIuqUm_U1ltAQ9cFzBOpGu_i6jlPVrUq9aEfTPyE5csOI1ZEaSflL0JONarc8lUON_f3stOm_tdGuJbpbGmSiypE01kj60RyKGtM_CkoFAW_RAqWOGC3CfviNolFHuL9z8LkdLTxmGgb8Ohn4aHakfxBeuA3W3G8fvKShsF0JjXm0-ysBUBv3rbSBAYbHnfR53YFZkiR8HtDq7QzFs-6Ud_c57vhji_RTn32Ms6aW9PxZSI8iYv1zAtVu__ZrSvcwnsayiNmF14v-I4bA-ZrbG-yM3GDZPWKO05v7cgXZ-tj6my-bOMaT9oJQJdPWOPjsKrf3Pk15_ts18Q7VWZbv8bEkewFkMvqdyG3nMocAjy1YE75UYUb5zTfSAmj7r8_e3EbacU82DVz-VizVMQaB70A5JpGcQ4sx49Tc3jC3D-o_oFyY0bYNKq1btewn9IDGrWbkglM6Hp91Q36ziF3YlMX2UBQh4m_xDwMov430fQalnVN026ZlmNHZbCNmE4OWVJC4YlEPAHvz4sfjaZYXQ_5gjTMiY4Y7jHR1Wl-u0C7-xvrx3O9See-gomeeUIz9-RS-oXx_0pyPKDYhmzWhAtfsHFVpeo2aDAOioEcKpPp0gQr73aOV27uxg56w4KrLTesri9yIRYHgXbBnXH94dJxdVjCVNHhMvdl2uCpJJ2Q0-_IH2o89HpONY1=w1259-h933-no" /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="sheer-contrast"&gt;
+&lt;h2&gt;Sheer contrast&lt;/h2&gt;
+&lt;p&gt;What comes next are my raw (translated) notes from a trip we did the day
+before the conference. I hope you can forgive my naïveté: I was still a
+stupid, fearful traveler.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(2019-02-18) &amp;quot;Around 13:00, we arrive in Katutura. I don't understand
+a word, but there's a great atmosphere. I'm a bit worried about the
+meat, not sure what to do. Two young girls are eating it without
+trouble... I might die of diarrhea, but this is delicious.&lt;/p&gt;
+&lt;p&gt;Barefoot girls, their parents are sewing. Lots of places to shave off
+and get a haircut, they look like meeting places where people just go
+and talk. The street market is very clean.&lt;/p&gt;
+&lt;p&gt;A man uttering something makes us uncomfortable. Do we bother him
+with our presence? Jessica [our guide and PyConNA co-organizer, more
+on her later] doesn't seem impressed.&lt;/p&gt;
+&lt;p&gt;The Sun burns, but the dressmakers need a lightbulb to see what
+they're doing because everything is covered and a bit dark. Their
+language is called oshihereo, from the &amp;quot;herero&amp;quot; tribe.&lt;/p&gt;
+&lt;p&gt;Right behind me, a man yells: 'You are limited to grow higher because
+you have no money!'&lt;/p&gt;
+&lt;p&gt;The strange man keeps uttering things around us, hitting his chest.
+The dressmakers are amused. I'm not sure if anyone actually
+understands him.&lt;/p&gt;
+&lt;p&gt;'The currency for herero is cattle.'&lt;/p&gt;
+&lt;p&gt;The dressmakers sweat to the lightbulb while we observe. The dress
+progresses slowly, layer by layer. Imagine that in reality they don't
+dress like that and everything is a joke to make fun of tourists,
+easily impressed.&lt;/p&gt;
+&lt;p&gt;Sandrine has become a local attraction. A man approached to ask how
+much he likes the combination between the dress and her skin color
+for a wedding. 'Now we only need a husband.'&lt;/p&gt;
+&lt;p&gt;Goodbye = Peri nawa Thank you = Ndangi, Okuhepa Hi = Kora I'm good =
+Nawa&lt;/p&gt;
+&lt;p&gt;15:00 - My hands are stained with clay. The clay with which the women
+that danced for us cover their body. We didn't understand the rules,
+or the rhythm, or the language, but we danced with them nonetheless.
+They explained the clothes they wear when reaching adulthood, when
+they marry, when their parents die. And they asked the same to us.
+Meanwhile, lots of children around us were listening with an
+expression of amazement in their faces, as if all of that was new to
+them as well. When they were satisfied, the natives shook our hands
+and left. My hands are stained with clay, and tomorrow I'm going to a
+tech conference.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There's clay in the notebook as well. I'm glad I stamped my hand in it,
+so I never forget the feeling.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Mucho trabajo por hacer" src="https://lh3.googleusercontent.com/t__jgjiVQL78NgyNvZEd9E7WjOeJtTMy17GJ_QmJRleDa7xj2ET3AcW7uB8MAR9ytMVsKTbeoS8lTXD765PgwMe4ypMwoa2B972saz82VWGqTdwZkAEaCydqUKmgrcRH_-6fOHBB7WqTEPY1cc-5NO__fk2cjkU_puq9UMW7P-pLphqqPc3B-IHPFLC7x20muMBx7fG6WJRPEft0SV_tJ78nEkvUAEPISlsD9ppz9YObPOi1ybglmO3YhItZi0m2F_9z5dI6kpUgE12WyYfdYVyHV_ZAv1G7SLn9a7PxWJpEJAv3QtghyV4yIJu_r1ZhmFY0ji7cxwI90zkzhqHAVYW-o55rlzeMDdpkndFRP4l7AB2bXL9NSJ8-Eqc9i7KCmFlORf5SKdfgAwBdKZFsrQjIb1mifmh8gJA-qUwwbfoe6T0piTiTd_TwXB8Yx5T59504oqS02qZC4rxQwhB_0nb5s7e8oD3UBnSGxVwio0KB_XVuZhuQfmBZVJZLRQaz6nMo-4emwUypQequ1z3Q8G_cAMM4wv30CMc38usUwC7ei2Y45CirXSKqeY2ya7c4UJcM3P3gt5OXZRUDNS1CQX40ecQtOHOQ06jOxV3j6cOuyHJ1TNA1Y9nERNkzarmf-bTVpeTABKuv7VR2NTuG_z2TruBN1xA=w700-h933-no" /&gt;&lt;/p&gt;
+&lt;p&gt;PyCon Namibia
+-------------&amp;quot;&lt;/p&gt;
+&lt;p&gt;And finally, the big day arrived. We enjoyed three exciting days
+learning and sharing about Python, and much more than that. I ended up
+participating a lot:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;I gave an &lt;strong&gt;introduction to Python workshop&lt;/strong&gt; focused on having
+everyone with a working environment, probably the most challenging
+part when getting started with the language. We had to tweak the
+&lt;tt class="docutils literal"&gt;PATH&lt;/tt&gt; in non-trivial ways by following ugly tutorials, learn how
+to copy-paste from the Windows command line (spoiler: it's a very
+crappy experience) and be very patient, but in the end, everybody
+could &lt;tt class="docutils literal"&gt;pip install&lt;/tt&gt; libraries and configure their editor of choice.
+In the last minute, I came up with the idea of taking questions from
+the audience of the form &amp;quot;how do you do X with Python&amp;quot; because I
+happen to know a lot of libraries and projects (even though I never
+used most of them of course). It turned out to be quite interesting:
+we mentioned &lt;a class="reference external" href="https://www.xlwings.org/"&gt;xlwings&lt;/a&gt; for Excel
+automation, &lt;a class="reference external" href="https://www.pygame.org/"&gt;pygame&lt;/a&gt; for animations and
+games, &lt;a class="reference external" href="https://selenium-python.readthedocs.io/"&gt;Selenium&lt;/a&gt; for
+browser automation and frontend testing, and many more I can't
+remember.&lt;/li&gt;
+&lt;li&gt;A speaker couldn't make it to Namibia because of last-minute visa
+issues, so I gave a talk about &lt;strong&gt;Jupyter notebooks and reproducible
+science&lt;/strong&gt;
+(&lt;a class="reference external" href="https://speakerdeck.com/astrojuanlu/jupyter-ipython-how-a-notebook-is-changing-science"&gt;slides&lt;/a&gt;)
+which I used to give some years ago when IPython started to be
+popular and Jupyter was created. An adorable girl that asked me &amp;quot;what
+are those 'bugs' you mention all the time&amp;quot; and I answered with all
+seriousness because I'm aware how important it is not to dismiss
+these sort of &amp;quot;simple&amp;quot; questions, especially when you are still young
+and curious about the universe. She was for sure not alone, but only
+she dared to speak up and ask. I love working with teenagers and
+children because of this. She also asked what &amp;quot;aerospace engineers&amp;quot;
+do... Which is probably one of the toughest questions one can ask to
+me. But that's another story.&lt;/li&gt;
+&lt;li&gt;I gave a talk about &lt;strong&gt;poliastro, the Python library for
+Astrodynamics&lt;/strong&gt; (&lt;a class="reference external" href="https://docs.poliastro.space/"&gt;website&lt;/a&gt;) I
+created many years ago and that I still maintain and develop. As
+usual there were only a few people in the audience because many feel
+intimidated about space stuff, but even so, I had a great interaction
+with the people that stayed. We discussed the challenges of creating
+a community around an open source project, the difficulties in
+validating research software... And of course, the African space
+program! A girl told me that thanks to my talk she was considering
+working in the space industry again and that alone made all the trip
+worth it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Apart from the talks and workshops I gave, it was exciting to have
+&lt;strong&gt;Adam Johnson&lt;/strong&gt; talking about how to use power law distributions to
+predict which technologies will still be around in the near future,
+&lt;strong&gt;Ngatatue Mate&lt;/strong&gt; teaching us how to make music in Python using
+&lt;a class="reference external" href="https://supercollider.github.io/"&gt;SuperCollider&lt;/a&gt; and
+&lt;a class="reference external" href="http://foxdot.org/"&gt;FoxDot&lt;/a&gt; (really, never had so much fun in &lt;em&gt;any&lt;/em&gt;
+PyCon), &lt;strong&gt;Godwin Nekongo&lt;/strong&gt; eloquently introducing the &lt;a class="reference external" href="https://pynamibia.org/scholars/"&gt;PyNam
+Scholars&lt;/a&gt;, &lt;strong&gt;Adeshola Afolabi&lt;/strong&gt;
+describing how to conduct proper A/B testing in Python (perhaps one day
+I'll get my stats straight and fully understand the whole thing).&lt;/p&gt;
+&lt;p&gt;What made this PyCon extraordinary to me was the lightning talks. Not
+because they were funnier than others, but because they were the perfect
+excuse for the young people in the audience to share their excitement to
+be there, to learn how to use technology to improve their lives, how
+skeptical they were about the event before going, how eager they were
+about going to hands-on workshops to actually code themselves. They
+eloquently described the struggles of their own country and their will
+to make their voices heard. I was literally moved to tears.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="PyCon Namibia" src="https://lh3.googleusercontent.com/7Cb6NbXnUAB0fsaIGrQZlkcmSviJ7ZylJyGUvtND7reTMWWZVQiB8njmpux4ZbbTRgU_mh0-vhpETvJ-9ujOynShKD9oJOjJY1FfiUfgBg-tzcZ9o-ocWcTPyrIJrF4ai1Zm3uMFMllBGhZlv0O0Cw-W0HkZ-orhOJQan_5o6_ehohrWq-0VTCb3mv4Zi0P7o8RC-oyq9_3vUG3OFnVINPlFV9lXuWKMkXhABb9yRIYW0D3NBK_M0IpFt0MgHG0gPOwiobI13jNemfr7EAx6TG_sbElBgVBj0NzmVOyoUcWyYH0yn7Uq7yrl0u9MBxD1yVJ2kJE9OJ94UyFRHA_6kD8i98D4-2GNruOS13c3CPDOr0GnMPrvBx2X-iQ4ExU3pm78vWbYce3u3PbsEaMdaxrOC1Pibg4CeFmS6HLZEIIIiIGpLMe9XXWAx12-a4ej_U0lheoBBniGa_nOoLJAuxgYQdLZzi26sG_gZctx5GG0wnxP-XJ3bxKobhfhPALbI52_YO0VeTK80BBqxqFIWWdHRsd-xISCfV5XgX0mD51claXPdUDcxcsXpFw_u5pSEIJaPUh7Y79KA-3WPSDAi6QLcM-ApsofkA98UBRJMcQySzbc50p8_VHVtOrpVrfG1kf4gXs-dwzXqQmdbO5dMMnIlCKwrNwjGXryPfxxw-QHquL9WtlaFC1PR93bsfRfPvKTt1e23VKdqS_vQFKjg9ML=w700-h933-no" /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="and-now-what"&gt;
+&lt;h2&gt;And now what?&lt;/h2&gt;
+&lt;p&gt;After the conference, I didn't really have time to get bored. We recited
+poetry. We fed cheetahs and leopards. We pushed a van with an empty
+tank. I met artists. I felt this combination of excitement and
+exhaustion that one always has after sharing and learning so much.&lt;/p&gt;
+&lt;p&gt;And now, what?&lt;/p&gt;
+&lt;p&gt;If Daniele Procida is the brain of PyCon Namibia, Jessica Upani is the
+heart. I had the opportunity to meet her in person and understand why
+some emails took a while to be answered: &lt;em&gt;she was organizing the
+conference almost on her own&lt;/em&gt;. And yet, it was amazing how much positive
+energy she had and how much their students admired her.&lt;/p&gt;
+&lt;p&gt;Jessica gave her first talk the last day of the PyCon, explaining how to
+organize one. And she had only one request: that, &lt;strong&gt;two weeks from
+then&lt;/strong&gt;, all those interested in making the next edition happen should
+commit to dedicating as much time as she did (ideally less if more people
+were involved!) and write her an email. Not earlier, because all this
+excitement can be deceiving, and make us think we want to work more than
+we actually can afford after it's gone.&lt;/p&gt;
+&lt;p&gt;Well, can you guess what day today is?&lt;/p&gt;
+&lt;p&gt;Get your hands dirty. Lift others. Own your actions. Attend &lt;a class="reference external" href="https://twitter.com/pyconafrica"&gt;PyCon
+Africa 2019&lt;/a&gt;. Organize PyCon Namibia
+2020.&lt;/p&gt;
+&lt;p&gt;Make your head explode.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Tropic of Capricorn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tropique_du_Capricorne-Namibie.jpg/1024px-Tropique_du_Capricorne-Namibie.jpg" /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="Events &amp; Travel"></category></entry><entry><title>My digital self</title><link href="https://www.juanlu.space/posts/2019/02/24/my-digital-self/" rel="alternate"></link><published>2019-02-24T21:29:00+01:00</published><updated>2019-02-24T21:29:00+01:00</updated><author><name>Juan Luis Cano Rodríguez</name></author><id>tag:www.juanlu.space,2019-02-24:/posts/2019/02/24/my-digital-self/</id><summary type="html">&lt;p&gt;Here I am.&lt;/p&gt;
 &lt;p&gt;Tweets are deleting as we speak. Facebook and Whatsapp are long gone.
 And, you guessed right, &lt;em&gt;I am back to blogging&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;I started a personal blog a long time ago.
