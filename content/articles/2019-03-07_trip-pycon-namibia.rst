@@ -240,12 +240,12 @@ Africa 2019 <https://twitter.com/pyconafrica>`__. Organize PyCon Namibia
 
 Make your head explode.
 
+|Tropic of Capricorn|
+
 *Thanks to Daniele Procida and Jessica Upani not only for giving
 early feedback about this writeup, but also for their selfless
 work for this community. They are too humble to recognize
 their tremendous effort.*
-
-|Tropic of Capricorn|
 
 .. |Long live Namibian independence!| image:: https://lh3.googleusercontent.com/aSxbZotVNbd0O43uuVEi9qvP_aThheIuqUm_U1ltAQ9cFzBOpGu_i6jlPVrUq9aEfTPyE5csOI1ZEaSflL0JONarc8lUON_f3stOm_tdGuJbpbGmSiypE01kj60RyKGtM_CkoFAW_RAqWOGC3CfviNolFHuL9z8LkdLTxmGgb8Ohn4aHakfxBeuA3W3G8fvKShsF0JjXm0-ysBUBv3rbSBAYbHnfR53YFZkiR8HtDq7QzFs-6Ud_c57vhji_RTn32Ms6aW9PxZSI8iYv1zAtVu__ZrSvcwnsayiNmF14v-I4bA-ZrbG-yM3GDZPWKO05v7cgXZ-tj6my-bOMaT9oJQJdPWOPjsKrf3Pk15_ts18Q7VWZbv8bEkewFkMvqdyG3nMocAjy1YE75UYUb5zTfSAmj7r8_e3EbacU82DVz-VizVMQaB70A5JpGcQ4sx49Tc3jC3D-o_oFyY0bYNKq1btewn9IDGrWbkglM6Hp91Q36ziF3YlMX2UBQh4m_xDwMov430fQalnVN026ZlmNHZbCNmE4OWVJC4YlEPAHvz4sfjaZYXQ_5gjTMiY4Y7jHR1Wl-u0C7-xvrx3O9See-gomeeUIz9-RS-oXx_0pyPKDYhmzWhAtfsHFVpeo2aDAOioEcKpPp0gQr73aOV27uxg56w4KrLTesri9yIRYHgXbBnXH94dJxdVjCVNHhMvdl2uCpJJ2Q0-_IH2o89HpONY1=w1259-h933-no
 
