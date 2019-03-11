@@ -125,7 +125,7 @@
                 <li class="menu-item">{{ display_link(name, link, name) }}</li>
                 {% endfor %}
                 {% for page in pages %}
-                <li class="menu-item">{{ display_link(page.slug, page.url, page.slug) }}</li>
+                <li class="menu-item">{{ display_link(page.slug, SITEURL + "/" + page.url, page.slug) }}</li>
                 {% endfor %}
               </ul>
               </div>
