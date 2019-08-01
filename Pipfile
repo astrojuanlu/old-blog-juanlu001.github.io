@@ -9,6 +9,7 @@ black = "*"
 [packages]
 pelican = "*"
 webassets = "*"
+ghp-import = "*"
 
 [requires]
 python_version = "3.7"
