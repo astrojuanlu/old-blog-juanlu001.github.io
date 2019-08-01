@@ -1,5 +1,257 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>juanlu.space</title><link href="https://www.juanlu.space/" rel="alternate"></link><link href="https://www.juanlu.space/feeds/all.atom.xml" rel="self"></link><id>https://www.juanlu.space/</id><updated>2019-03-07T13:30:00+01:00</updated><entry><title>My trip to PyCon Namibia</title><link href="https://www.juanlu.space/posts/2019/03/07/my-trip-to-pycon-namibia/" rel="alternate"></link><published>2019-03-07T13:30:00+01:00</published><updated>2019-03-07T13:30:00+01:00</updated><author><name>Juan Luis Cano Rodríguez</name></author><id>tag:www.juanlu.space,2019-03-07:/posts/2019/03/07/my-trip-to-pycon-namibia/</id><summary type="html">&lt;p&gt;Since I went to my first Python Conference in 2013 (coincidentally, one
+<feed xmlns="http://www.w3.org/2005/Atom"><title>juanlu.space</title><link href="https://www.juanlu.space/" rel="alternate"></link><link href="https://www.juanlu.space/feeds/all.atom.xml" rel="self"></link><id>https://www.juanlu.space/</id><updated>2019-08-01T12:00:00-04:00</updated><entry><title>The things that should make us mad</title><link href="https://www.juanlu.space/posts/2019/08/01/the-things-that-should-make-us-mad/" rel="alternate"></link><published>2019-08-01T12:00:00-04:00</published><updated>2019-08-01T12:00:00-04:00</updated><author><name>Juan Luis Cano Rodríguez</name></author><id>tag:www.juanlu.space,2019-08-01:/posts/2019/08/01/the-things-that-should-make-us-mad/</id><summary type="html">&lt;p&gt;As anybody who regularly watches the news knows, there is no shortage of
+reasons to be mad. Yet precisely because of this sheer amount of
+information &lt;a class="footnote-reference" href="#id3" id="id1"&gt;[1]&lt;/a&gt;, it's also easy to live in an anesthetized status, in which
+all the horrible things that happen in the world far away from …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As anybody who regularly watches the news knows, there is no shortage of
+reasons to be mad. Yet precisely because of this sheer amount of
+information &lt;a class="footnote-reference" href="#id3" id="id1"&gt;[1]&lt;/a&gt;, it's also easy to live in an anesthetized status, in which
+all the horrible things that happen in the world far away from home look
+like background noise. Because of this, sometimes we need a trigger - we
+need to pick a particular thing to be mad at.&lt;/p&gt;
+&lt;p&gt;This week I found mine, and I am enraged.&lt;/p&gt;
+&lt;p&gt;GitHub.com, the largest code sharing platform in the world and, besides,
+home to this humble blog and virtually all my open source work, &lt;a class="reference external" href="https://twitter.com/Hamed/status/1154268514074660864"&gt;started
+blocking users from Iran and other
+countries&lt;/a&gt;
+somewhere around July 25th, 2019. As Nat Friedman, GitHub's CEO,
+confirmed some days later, the company was not offered &lt;a class="reference external" href="https://twitter.com/natfriedman/status/1155311124687945728"&gt;&amp;quot;the option to
+give anyone advance notice of
+restrictions&amp;quot;&lt;/a&gt;,
+which prevented the banned developers to take actions to protect their
+projects, such as making their repositories public.&lt;/p&gt;
+&lt;p&gt;For one, not everybody wants (or can) make their repositories public,
+and apart from that it's important to note that there is &lt;strong&gt;a lot of
+data&lt;/strong&gt; on GitHub repositories that is not code, namely issues, pull
+requests conversations, wikis, and possibly more. That data is no longer
+accessible for the people that produced it.&lt;/p&gt;
+&lt;p&gt;The reasons for these bans are explained &lt;a class="reference external" href="https://help.github.com/en/articles/github-and-trade-controls"&gt;on this GitHub
+page&lt;/a&gt;,
+and can be summarized in this sentence:&lt;/p&gt;
+&lt;blockquote&gt;
+U.S. trade control laws restrict what GitHub.com services can be
+made available to users in certain countries and territories.&lt;/blockquote&gt;
+&lt;p&gt;Therefore, under current USA trade law, GitHub is forced to restrict
+access to their services in a bunch of countries, somewhat overlapping
+with what George W. Bush infamously called the &amp;quot;Axis of Evil&amp;quot;. According
+to the &lt;a class="reference external" href="https://www.wm.edu/offices/techtransfer/ExportControls/Regulations/OFAC/index.php"&gt;Treasury Department’s Office of Foreign Asset Control (OFAC)
+website&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+Currently, sanctioned countries include the Balkans, Belarus, Burma,
+Cote D'Ivoire (Ivory Coast), Cuba, Democratic Republic of Congo,
+Iran, Iraq, Liberia, North Korea, Sudan, Syria, and Zimbabwe.&lt;/blockquote&gt;
+&lt;p&gt;Without trying to get a 100 % understanding about the reach of these
+sanctions, it's anyway important to note that &lt;a class="reference external" href="https://www.wikiwand.com/en/United_States_sanctions"&gt;it's a complex
+matter&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+Combined, the Treasury Department, the Commerce Department and the
+State Department list embargoes against 30 countries or territories&lt;/blockquote&gt;
+&lt;p&gt;I leave this bit of information here before I get emotional about Iran
+in particular later on. Do not forget that there are more countries
+affected.&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="GitHub ban note" src="https://raw.githubusercontent.com/1995parham/github-do-not-ban-us/master/message.png" /&gt;
+&lt;p class="caption"&gt;GitHub ban note&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;However&lt;/em&gt;, even though these restrictions should be clearly applied
+according to location and not nationality, &lt;a class="reference external" href="https://github.com/1995parham/github-do-not-ban-us"&gt;the situation is much
+worse&lt;/a&gt; (emphasis
+mine):&lt;/p&gt;
+&lt;blockquote&gt;
+GitHub decided to take one step further and ban every user that used
+Iran's IP address &lt;strong&gt;somewhere their history no matter where she/he
+is living&lt;/strong&gt;&lt;/blockquote&gt;
+&lt;p&gt;USA applying economic sanctions to countries is by no means a new
+phenomenon. For example, the &lt;a class="reference external" href="https://www.wikiwand.com/en/Iran_and_Libya_Sanctions_Act"&gt;Iran and Libya Sanctions Act
+(ILSA)&lt;/a&gt;
+dates from 1996. We could write a million words about how suspiciously
+selective the USA government are when picking which countries to
+sanction, or in general about &lt;a class="reference external" href="https://www.wikiwand.com/en/Operation_Condor"&gt;some aspects of their foreign
+policy&lt;/a&gt;, which in part
+brought us to where we are now. Thus, by speaking about this particular
+topic (the GitHub bans), I am no way trying to minimize major issues
+that affect people's lives in more severe ways.&lt;/p&gt;
+&lt;p&gt;I am picking my reason to be mad.&lt;/p&gt;
+&lt;div class="section" id="freedom-of-choice"&gt;
+&lt;h2&gt;Freedom of choice&lt;/h2&gt;
+&lt;p&gt;In the second quarter of 2019, the &lt;a class="reference external" href="https://www.wikiwand.com/en/List_of_public_corporations_by_market_capitalization#/2019"&gt;5 biggest companies by market
+capitalization&lt;/a&gt;
+are USA tech companies: Microsoft (owner of GitHub), Amazon.com, Apple
+Inc., Alphabet Inc. (parent company of Google) and Facebook. Only one of
+them manufactures objects you can touch, the rest being software,
+services, and micro-targeted advertising.&lt;/p&gt;
+&lt;p&gt;The fact that all the companies that dictate how the Western world
+interacts with technology are based in the USA means that we are forced
+to abide by their rules of &lt;a class="reference external" href="https://www.theverge.com/2018/4/24/17275114/facebook-community-guidelines-nipples-nudity"&gt;how the female body is
+portrayed&lt;/a&gt;,
+&lt;a class="reference external" href="https://www.theverge.com/2018/1/12/16882408/google-racist-gorillas-photo-recognition-algorithm-ai"&gt;how people of color are (not) taken into account when building
+user-facing
+products&lt;/a&gt;,
+and many more subtleties.&lt;/p&gt;
+&lt;p&gt;Therefore, the consequences of this dominance of USA-based companies are
+far reaching, but &lt;a class="reference external" href="https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194"&gt;trying to live without them is so difficult that it's
+not even
+funny&lt;/a&gt;,
+and the reasons for that are related to how tech companies make use of
+cloud services. For example, Spotify S. A. is a Swedish company but
+&lt;a class="reference external" href="https://cloud.google.com/blog/products/gcp/spotify-chooses-google-cloud-platform-to-power-data-infrastructure"&gt;they store their data in Google Cloud
+Storage&lt;/a&gt;,
+and so the theoretical advantages of being in the European Union vanish.&lt;/p&gt;
+&lt;p&gt;The five big tech giants, and with them the USA and their morals, have
+effectively monopolized the Internet.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="getting-mad"&gt;
+&lt;h2&gt;Getting mad&lt;/h2&gt;
+&lt;p&gt;I first started getting mad at the USA economic sanctions during my
+first year as &lt;a class="reference external" href="https://www.ie.edu/school-human-sciences-technology/we-are-hst/people/faculty/juan-luis-cano-rodriguez/"&gt;Associate Professor of several Python subjects at IE
+School of Human Sciences and
+Technology&lt;/a&gt;.
+I am lucky to have about 55 students from literally everywhere in the
+world and to be about the same age than my students, which makes the
+interaction with them extremely enriching and eye opening.&lt;/p&gt;
+&lt;p&gt;As part of the course, I encourage my students to participate in Kaggle
+competitions, which involve complex data science and machine learning
+problems in a healthy and competitive environment. At some point though,
+some event that I can't remember (not sure if the &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Rohingya_genocide"&gt;Rohingya genocide in
+Myanmar&lt;/a&gt;, the &lt;a class="reference external" href="https://www.wikiwand.com/en/2017_Venezuelan_constitutional_crisis"&gt;2017
+Venezuelan Constitutional
+crisis&lt;/a&gt;
+or the &lt;a class="reference external" href="https://www.wikiwand.com/en/2017%E2%80%9318_Iranian_protests"&gt;2017-2018 Iranian
+protests&lt;/a&gt;)
+triggered me and made me think that, Kaggle being in the USA, there was
+probably some restrictions to the &amp;quot;Axis of Evil&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.kaggle.com/terms"&gt;And I was right&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+Competitions are open to residents of the United States and
+worldwide, except if you are a resident of Crimea, Cuba, Iran,
+Syria, North Korea, Sudan, or any other place prohibited by law you
+may not enter any Competition.&lt;/blockquote&gt;
+&lt;p&gt;I had students from Iran at the time, and reading this sentence made me
+furious. I tried looking into another platforms and found DrivenData,
+whose slogan is &amp;quot;Data science competitions to build a better world&amp;quot; and
+has a focus on social impact and sustainable development goals, but it
+turns out it was &lt;a class="reference external" href="https://www.drivendata.org/termsofuse/#governing-law-and-jurisdiction"&gt;subject to the same
+restrictions&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+We make no claims that the Website or any of its content is
+accessible or appropriate outside of the United States. Access to
+the Website may not be legal by certain persons or in certain
+countries.&lt;/blockquote&gt;
+&lt;p&gt;At this point I gave up and offered an apology to my students.
+Fortunately, &lt;em&gt;according to the text&lt;/em&gt;, nobody should have problems using
+the platforms from Spain, which is where the class take place, so I
+called it a day.&lt;/p&gt;
+&lt;p&gt;However, fast forward to 2019, and now there's a real possibility that
+some of my students won't be able to access &lt;a class="reference external" href="https://github.com/Juanlu001/ie-mbd-advanced-python/"&gt;the materials of my
+courses&lt;/a&gt; if
+they ever visited any of the sanctioned countries &lt;em&gt;in the past&lt;/em&gt; just
+because, at the time of writing, they are hosted on GitHub. Also,
+&lt;a class="reference external" href="https://twitter.com/Hamed/status/1154500430317182976"&gt;GitLab.com is not an option because it uses Google
+Cloud&lt;/a&gt;.
+&lt;a class="reference external" href="https://twitter.com/Hamed/status/1154500430317182976"&gt;Neither are Bitbucket nor
+SourceForge&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You guessed it right: I am mad as hell.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="we-need-alternatives"&gt;
+&lt;h2&gt;We need alternatives&lt;/h2&gt;
+&lt;p&gt;If you have been reading carefully, you will have noticed that the
+GitHub restrictions affect &amp;quot;access to private repository services and
+paid services&amp;quot;, so in theory nobody should have problems to access these
+materials. I am not over dramatizing in bad faith, but to get my point
+across: what if I ask them to create a private repository for an
+assignment? What if they want to use the paid services for any reason?
+What if the &lt;a class="reference external" href="https://twitter.com/realdonaldtrump/"&gt;Orange in Chief&lt;/a&gt;
+declares war to Iran in a series of angry tweets and the sanctions get
+worse? &lt;a class="footnote-reference" href="#id4" id="id2"&gt;[2]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For the time being, I will do everything I can with the time and
+resources I have (one month) to avoid putting any of my future students
+in a situation where they are at disadvantage with respect to their
+colleagues. This might or might not involve making the materials
+available in a self-hosted git web UI (GitLab, Gitea) and making it
+useable enough so that all the development can happen there. Or I can
+use platforms like &lt;a class="reference external" href="https://codeberg.org/"&gt;Codeberg&lt;/a&gt;, a hosted Gitea
+service backed by &lt;a class="reference external" href="https://codeberg.org/codeberg/org/src/branch/master/Imprint.md"&gt;a non-profit organisation based in
+Germany&lt;/a&gt;
+that promoted themselves among all this crisis. And of course, whatever
+I build in the future, I will be careful to consider &lt;a class="reference external" href="https://fuga.cloud/"&gt;non-USA cloud
+providers as well&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So, now that I told you what &lt;em&gt;I&lt;/em&gt; am going to do, I think it's important
+to think about what &lt;em&gt;we&lt;/em&gt;, the people that can't change the course of the
+USA foreign policy (either because we are not decision makers or because
+we can't even vote the current ones out) are going to do. We &lt;em&gt;need&lt;/em&gt; to
+have a deep conversation about the alternatives to the current
+situation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="ramblings-a-few-questions-and-no-answers"&gt;
+&lt;h2&gt;Ramblings, a few questions, and no answers&lt;/h2&gt;
+&lt;p&gt;Some people will happily state that we &lt;strong&gt;just&lt;/strong&gt; have to host our own
+GitLab/Gitea/whatever, but please bear with me if I'm wary of &lt;a class="reference external" href="https://saynotostigma.com/2015/09/the-j-word-just-think-about-it/"&gt;the
+J-word&lt;/a&gt;.
+Also, without seamless model for &lt;a class="reference external" href="https://medium.com/&amp;#64;tamanning/nomadic-identity-brought-to-you-by-hubzilla-67eadce13c3b"&gt;nomadic
+identities&lt;/a&gt;
+that do not make me give my email and password to an unbounded number of
+small, volunteer-run code sharing websites, not to mention being able to
+&lt;a class="reference external" href="https://github.com/tootsuite/mastodon/issues/177"&gt;easily migrate my data to another instance in case one goes
+down&lt;/a&gt; or a way to
+aggregate the costs in managing email servers (read: SPAM), storage,
+security upgrades in a way that they devolve upon all these atomized
+efforts, I argue that this approach will never be a real alternative,
+let alone compete with the status quo.&lt;/p&gt;
+&lt;p&gt;Some other people have declared that Blockchain and distributed ledger
+technologies will fix this issue. I don't know enough about these kind
+of technologies to make an informed judgement, so I only have uninformed
+opinions: I am worried that these solutions end up being backed by
+venture capital money (which, by their own nature, strive to maximize
+profits over short periods of time), that they end up being too complex
+(and difficult to replicate without the required skills), or that it's
+another instance of tech people trying to fix societal problems adding
+more layers of technology and ignoring any other branch of knowledge
+(&amp;quot;when you only have a hammer, everything looks like a nail&amp;quot;).&lt;/p&gt;
+&lt;p&gt;Perhaps EU-based, non-profit organisations like Codeberg are the
+answers, but of course being based in the EU is &amp;quot;good enough&amp;quot; to me only
+because it &lt;em&gt;seems&lt;/em&gt; better than the USA in this respect and because I
+have my own biases (disclaimer: I'm a EU citizen). In fact, &lt;a class="reference external" href="https://www.consilium.europa.eu/en/policies/sanctions/iran/"&gt;the EU has
+its own battery of sanctions against
+Iran&lt;/a&gt;,
+although on quick inspection they do not seem to affect general purpose
+online services or businesses. In any case, perhaps being attached to
+any particular legislation is not good enough, which brings us back to
+the Blockchain, or at least should make us consider how do we enable
+groups of people to create platforms that are big enough so they don't
+incur in a massive overhead of administrative costs and that can be set
+up and accessed anywhere.&lt;/p&gt;
+&lt;p&gt;The conundrum of the current GitHub bans is rooted in USA &lt;em&gt;trade laws&lt;/em&gt;,
+which means that perhaps a Foundation or any other form of non-profit
+entity would not be forced to impose such restrictions. How would EU
+non-profits and
+&lt;a class="reference external" href="https://www.wikiwand.com/en/Cooperative"&gt;cooperatives&lt;/a&gt; by a similar
+breed of sanctions? These kind of questions are the reason why tech
+people must work together with people with diverse backgrounds and
+skills (Social Sciences, Humanities, Law, Philosophy, all of them!)&lt;/p&gt;
+&lt;p&gt;I have a lot of questions and very few answers, but if you stayed this
+long I hope I got you thinking about what to do. It's already bad enough
+that &lt;a class="reference external" href="https://www.acslaw.org/expertforum/trumps-travel-ban-two-years-later/"&gt;some people can't go back to their home countries and then return
+to where they make a
+living&lt;/a&gt;,
+so we owe our friends, our students, our colleagues, a better
+alternative.&lt;/p&gt;
+&lt;p&gt;Are you mad already? Then let's do something about it.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Thanks to the people that accepted to review this article
+before publication and for enriching this article with their stories.
+I admire your courage very much. All remaining typos and mistakes are my own.&lt;/em&gt;&lt;/p&gt;
+&lt;table class="docutils footnote" frame="void" id="id3" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[1]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;tt class="docutils literal"&gt;Data &amp;lt; Information &amp;lt; Knowledge &amp;lt; Wisdom&lt;/tt&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table class="docutils footnote" frame="void" id="id4" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id2"&gt;[2]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Needless to say, being at war makes all the other problems pale in comparison.&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</content><category term="Digital Rights"></category></entry><entry><title>My trip to PyCon Namibia</title><link href="https://www.juanlu.space/posts/2019/03/07/my-trip-to-pycon-namibia/" rel="alternate"></link><published>2019-03-07T13:30:00+01:00</published><updated>2019-03-07T13:30:00+01:00</updated><author><name>Juan Luis Cano Rodríguez</name></author><id>tag:www.juanlu.space,2019-03-07:/posts/2019/03/07/my-trip-to-pycon-namibia/</id><summary type="html">&lt;p&gt;Since I went to my first Python Conference in 2013 (coincidentally, one
 that I kicked off and helped organize with no other references:
 &lt;a class="reference external" href="http://2013.es.pycon.org/"&gt;PyCon Spain&lt;/a&gt;) I have been lucky
 enough to travel to many other conferences around the world, always
